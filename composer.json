@@ -1,0 +1,41 @@
+{
+    "name": "darshphpdev/easyregex",
+    "description": "Simple Regex Pattern Generator and Validator",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+      "laravel",
+      "php",
+      "phpregex",
+      "regex",
+      "regularexpression",
+      "expression",
+      "regular"
+    ],
+    "authors": [
+        {
+            "name": "Mustafa Ahmed",
+            "email": "mustafa.softcode@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DarshPhpDev\\EasyRegex\\": "src/"
+        },
+        "files": [
+          "src/helpers/functions.php"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "DarshPhpDev\\EasyRegex\\EasyRegexServiceProvider"
+            ],
+            "aliases": {
+                "RegexBuilder": "DarshPhpDev\\EasyRegex\\RegexBuilder"
+            }
+        }
+    }
+}
