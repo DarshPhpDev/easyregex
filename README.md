@@ -1,9 +1,15 @@
 # Laravel EasyRegex Package
 
-## Simple Regex Pattern Generator and Validator.
-### Regular expressions are dense. This makes them hard to read, but not in proportion to the information they carry. It has a very terse syntax and if you make even the smallest mistake it won’t perform as expected.
+[![Issues](https://img.shields.io/github/issues/DarshPhpDev/easyregex.svg?style=flat-square)](https://github.com/DarshPhpDev/easyregex/issues)
+[![Stars](https://img.shields.io/github/stars/DarshPhpDev/easyregex.svg?style=flat-square)](https://github.com/DarshPhpDev/easyregex/stargazers)
+[![Downloads](https://img.shields.io/packagist/dt/DarshPhpDev/easyregex.svg?style=flat-square)](https://github.com/DarshPhpDev/easyregex)
+[![License](https://poser.pugx.org/DarshPhpDev/easyregex/license.svg)](https://github.com/DarshPhpDev/easyregex)
 
-### It's Ok. Writing regular expressions will not be your biggest fears any more!
+## Simple Regex Pattern Generator and Validator.
+#### Regular expressions are dense. This makes them hard to read, but not in proportion to the information they carry. It has a very terse syntax and if you make even the smallest mistake it won’t perform as expected.
+
+#### It's Ok. Writing regular expressions will not be your biggest fears any more!
+
 
 ## INSTALLATION
 
